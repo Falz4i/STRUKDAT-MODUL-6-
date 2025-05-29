@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1ec068c-be16-45c9-b7ea-0d171651d9f7" name="Changes" comment="comit push" />
+    <list default="true" id="f1ec068c-be16-45c9-b7ea-0d171651d9f7" name="Changes" comment="DUAR">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PerusahaanLogistikGraph.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -78,14 +81,31 @@
       <option name="project" value="LOCAL" />
       <updated>1748522548804</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DUAR">
+      <option name="closed" value="true" />
+      <created>1748522643758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748522643758</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DUAR">
+      <option name="closed" value="true" />
+      <created>1748522739674</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748522739674</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit" />
     <MESSAGE value="comit pushSS" />
     <MESSAGE value="comit push" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit push" />
+    <MESSAGE value="DUAR" />
+    <option name="LAST_COMMIT_MESSAGE" value="DUAR" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,4 +1,3 @@
-Okay, I can help you with the Codelab exercise! Let's break down the requirements and implement the solution.
 
 ## CODELAB: Implementasi Graph dalam Perusahaan Logistik
 
